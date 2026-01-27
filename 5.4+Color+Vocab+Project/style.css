@@ -1,0 +1,24 @@
+img[src]{
+    height: 200px;
+    width: 200px;
+}
+
+#blue{
+    color: #0000FF;
+}
+#red{
+    color: #FF0000;
+}
+#green{
+    color: #00FF00;
+}
+#yellow{
+    color: #FFFF00;
+}
+#orange{
+    color: #FFA500;
+}
+
+.colour-title{
+    font-weight: normal;
+}
